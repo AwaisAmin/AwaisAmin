@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AwaisAmin
-- 👀 I’m interested in Machine learning, Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
 
 <!---
