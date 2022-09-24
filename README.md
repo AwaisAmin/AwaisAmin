@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Awais Amin</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/awais-amin-a4914417b/</h3>
 <p align="left">
 </p>
 
