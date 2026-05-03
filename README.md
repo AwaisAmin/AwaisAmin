@@ -38,13 +38,6 @@ Built Criclay — a cricket analytics platform with Next.js + GraphQL. Developed
 
 ---
 
-## 📊 GitHub Stats
-
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwaisAmin&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisAmin&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📬 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://awais-amin-portfolio.netlify.app)
