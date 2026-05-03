@@ -1,20 +1,52 @@
-<!---
-- 👋 Hi, I’m @AwaisAmin
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me ...
---->
-<!---
-AwaisAmin/AwaisAmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Awais Amin</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi, I'm Awais Amin 👋
+### Frontend Team Lead · Full-Stack Engineer · React / Next.js / React Native / MERN / Python / Django
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/awais-amin-a4914417b/</h3>
-<p align="left">
-</p>
+I build production-grade web and mobile applications that perform under real-world pressure. Based in Lahore, Pakistan 🇵🇰 — working remotely with global teams.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 What I Do
+
+- **Frontend**: React.js, Next.js (App Router, SSR, SSG, ISR), TypeScript, Tailwind CSS, Redux Toolkit
+- **Mobile**: React Native — fintech apps, cross-platform experiences
+- **Backend**: Node.js, Express.js, Python, Django
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Cloud & DevOps**: AWS (S3), Docker, GitHub Actions, CI/CD, Vercel, Netlify
+
+---
+
+## 💼 Work
+
+**Frontend Team Lead @ RVIN** *(Jan 2026 – Present)*
+Leading frontend for a SaaS AI platform — web + mobile (React Native), collaborating with CTO on system design, contributing to Python/Django backend. Implemented full i18n with RTL/LTR support for global markets.
+
+**Software Engineer @ Crickslab** *(May 2024 – Dec 2025)*
+Built the Asia Cup ticketing system — **50,000+ successful transactions** under peak load. Delivered CMS dashboards for PCB and Qatar Cricket used by **millions of users**. Led Baseball platform frontend from scratch.
+
+**Associate Software Engineer @ Eritheia Labs** *(Nov 2022 – Apr 2024)*
+Built Criclay — a cricket analytics platform with Next.js + GraphQL. Developed a Web3 NFT marketplace and contributed to a Node.js job platform backend.
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [⚾ Baseball Blitz](https://baseballblitz.com) | SaaS platform for managing teams, tournaments & games | Next.js, Node.js |
+| [🏏 Crickslab](https://crickslab.com) | Cricket management — scheduling, bookings, ticketing | Next.js, MongoDB |
+| [🤖 RVIN](https://rvin.sa) | AI-powered SaaS for customer interaction automation | Next.js, Django, React Native |
+
+---
+
+## 📊 GitHub Stats
+
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwaisAmin&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisAmin&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://awais-amin-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awais-amin-a4914417b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaisamin090@gmail.com)
