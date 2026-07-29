@@ -1,94 +1,36 @@
-# Hi, I'm Awais Amin 👋
+<h1 align="center">Hi, I'm Awais Amin 👋</h1>
+<h3 align="center">Senior Software Engineer · React, Next.js & Full-Stack Development</h3>
 
-### Senior Software Engineer | React, Next.js & Full Stack
+<p align="center">
+Building web & mobile products used by millions of users — from AI SaaS to fintech.<br>
+Based in Lahore, Pakistan 🇵🇰 · Open to global remote & contract roles
+</p>
 
-I build production web and mobile products with **React, Next.js, TypeScript, Node.js, Python, Django, and React Native**.
-
-Based in **Lahore, Pakistan 🇵🇰**, I work with distributed teams and am open to **global remote roles** and **international contract opportunities**.
-
----
-
-## 🚀 What I Work With
-
-**Frontend**
-React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · Tailwind CSS
-
-**Mobile**
-React Native · Cross-platform applications · Fintech flows
-
-**Backend**
-Node.js · Express.js · Python · Django · REST APIs · GraphQL
-
-**Data & Infrastructure**
-PostgreSQL · MongoDB · MySQL · AWS · Docker · CI/CD · GitHub Actions
-
-**Other Experience**
-Kafka · Celery · Stripe · Internationalization · RTL/LTR Interfaces
+<p align="center">
+<a href="https://awais-portfolio-sable-xi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://linkedin.com/in/awais-amin-a4914417b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:awaisamin090@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 💼 Experience Highlights
+🔭 Currently building AI-powered SaaS & fintech products at **RVIN**
+🌱 Currently exploring **LLM integration & RAG pipelines**
+💬 Ask me about **React, Next.js, Django, or scaling high-traffic platforms**
+📫 Reach me at **awaisamin090@gmail.com**
 
-### Senior Software Engineer · RVIN
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,django,graphql,postgres,mongodb,mysql,aws,docker,git,figma" />
+</p>
 
-*Jan 2026 – Present · Remote*
+**Also working with:** Kafka · Celery · React Native · Stripe · Claude & GPT APIs · RAG Pipelines
 
-* Work across web, mobile, and backend systems for an AI-powered SaaS platform serving SMEs across the Gulf region.
-* Build Django REST APIs and asynchronous workflows using Kafka and Celery.
-* Develop a React Native fintech application with secure payment flows.
-* Implemented Arabic and English internationalization with full RTL and LTR support.
+### 🏗️ Featured Projects
+| Project | Description |
+|---|---|
+| ⚾ [Baseball Blitz](https://baseballblitz.com) | Next.js SaaS platform for teams, tournaments & real-time dashboards |
+| 🤖 [RVIN](https://rvin.sa) | AI-powered SaaS for customer engagement & business ops |
+| 🏏 [Crickslab](https://crickslab.com) | Cricket operations platform — scheduling, ticketing, live updates |
 
-### Software Engineer · CricksLab
-
-*May 2024 – Dec 2025*
-
-* Worked on the Asia Cup 2025 ticketing system, which processed **50,000+ transactions** during peak demand.
-* Built React and Next.js platforms for the Pakistan Cricket Board and Qatar Cricket.
-* Led development of **Baseball Blitz**, a subscription-based sports SaaS platform with real-time dashboards.
-* Improved delivery and search visibility through SSR, SSG, and optimized data fetching.
-
-### Associate Software Engineer · Eritheia Labs
-
-*Nov 2022 – Apr 2024*
-
-* Built the frontend foundation of **Criclay**, a cricket analytics product using Next.js and GraphQL.
-* Designed reusable components, application data flows, and API integration patterns.
-* Contributed to a Web3 NFT marketplace and a Node.js job platform.
-
----
-
-## 🏗️ Projects
-
-### ⚾ [Baseball Blitz](https://baseballblitz.com)
-
-Next.js SaaS platform for managing teams, tournaments, games, subscriptions, and real-time dashboards.
-
-### 🤖 [RVIN](https://rvin.sa)
-
-AI-powered SaaS platform for customer engagement, analytics, automation, and business operations.
-
-### 🏏 [CricksLab](https://crickslab.com)
-
-Cricket operations platform supporting scheduling, bookings, ticketing, administrative workflows, and real-time updates.
-
-### 📊 Criclay
-
-Cricket analytics platform built with Next.js and GraphQL, with structured data flows, reusable frontend architecture, and API-driven experiences.
-
----
-
-## 🌍 Open To
-
-* Global remote software engineering roles
-* Frontend and React/Next.js opportunities
-* Full-stack product engineering roles
-* International contract engagements
-* Collaboration with US, UK, and European teams
-
----
-
-## 📬 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://awais-amin-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/awais-amin-a4914417b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:awaisamin090@gmail.com)
+<p align="center"><i>Full experience & work history → <a href="https://awais-portfolio-sable-xi.vercel.app/">Portfolio</a></i></p>
